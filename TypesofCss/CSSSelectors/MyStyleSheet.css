@@ -1,0 +1,20 @@
+﻿* {
+    color:orange;
+}
+
+.heading{
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:40px;
+    background-color:antiquewhite;
+}
+#subheading {
+    color: hotpink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+}
+p {
+    color:orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+}
